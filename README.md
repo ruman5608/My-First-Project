@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ruman_sarwar5" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/ruman_sarwar5?t=-jVSQlRu9TOAwPvcKoi0aA&s=09&style=for-the-badge" alt="ruman_sarwar5" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/pixelflame.in/" target="_blank">PixelFlame Software Pvt.Ltd <a>
+- 🔭 I’m currently working on <a href="https://github.com/pixelflame.in/" target="_blank">PixelFlame Software Pvt. Ltd.<a>
 
 - 🌱 I’m currently learning **Javascript , React.js**
 
